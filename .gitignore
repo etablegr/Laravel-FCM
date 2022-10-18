@@ -24,3 +24,5 @@ build/*
 .idea/workspace.xml
 *.iml
 _ide_helper.php
+.phpunit.result.cache
+xdebug.log
